@@ -51,21 +51,27 @@ These will help identify **market inefficiencies** and optimize **content strate
 - **Teams Table** → Stores Premier League team information
 - **Players Table** → Contains player details and metadata
 - **Player Performance Table** → Fact table with match-by-match statistics
-  ![alt text](created_table-1.PNG)
-  ![alt text](table1-1.PNG)
-  ![alt text](table2-1.PNG)
-  ![alt text](table3-1.PNG)
+ <img width="714" height="413" alt="table1" src="https://github.com/user-attachments/assets/692d7ae1-87a9-43c4-9dd5-3bdf88b31540" />
+ <img width="702" height="412" alt="table2" src="https://github.com/user-attachments/assets/a7b9a1f8-fa95-42f3-a17f-33915cba3afc" />
+ <img width="704" height="413" alt="table3" src="https://github.com/user-attachments/assets/b4a5f417-ec68-4175-87d2-3075a36d1130" />
+ <img width="701" height="415" alt="created_table" src="https://github.com/user-attachments/assets/ddeb7f4b-b63d-4a92-8547-9dd7dc7a2b73" />
 
-![text](<c:/Users/FATIME DADI/Music/erd_diagram.pdf>)
+
+
+
+ERD DIAGRAM
+
 
 ### Sample Data
 
 Dataset includes **real-world 2023/24 Premier League data** for top performers:  
 Erling Haaland, Cole Palmer, Alexander Isak, Ollie Watkins, Mohamed Salah.
 
-![alt text](inserted_value-1.PNG)
-![alt text](inserted_value2-1.PNG)
-![alt text](inserted_value3-1.PNG)
+<img width="702" height="414" alt="inserted_value" src="https://github.com/user-attachments/assets/9d40b883-d0e1-431e-ab39-9f4bc673d185" />
+
+<img width="706" height="412" alt="inserted_value2" src="https://github.com/user-attachments/assets/e4ab12fb-c6ee-457e-bf91-244c9b054ed7" />
+<img width="705" height="408" alt="inserted_value3" src="https://github.com/user-attachments/assets/0a688896-12c8-40f1-b43c-9a0f75034a7d" />
+
 
 ---
 
@@ -76,6 +82,7 @@ Erling Haaland, Cole Palmer, Alexander Isak, Ollie Watkins, Mohamed Salah.
 - **Use Case:** Player of the Season analysis
 - Files: `ranking_query.sql`, `ranking_results.png`
 - **Insight:** Multiple ranking methods show Cole Palmer as standout performer with perfect percentile rank.
+<img width="730" height="415" alt="window_function_q1" src="https://github.com/user-attachments/assets/f377a847-7540-490a-b2ad-eea1ba4ccc18" />
 
 ---
 
@@ -84,6 +91,7 @@ Erling Haaland, Cole Palmer, Alexander Isak, Ollie Watkins, Mohamed Salah.
 - **Use Case:** Player form analysis and consistency tracking
 - Files: `aggregate_query.sql`, `aggregate_results.png`
 - **Insight:** Running totals reveal season progress. 3-game averages smooth volatility → better form analysis.
+<img width="730" height="415" alt="window_function_q1" src="https://github.com/user-attachments/assets/a6660a9d-7979-482c-94e8-2e5a28d5ae7e" />
 
 ---
 
@@ -92,6 +100,7 @@ Erling Haaland, Cole Palmer, Alexander Isak, Ollie Watkins, Mohamed Salah.
 - **Use Case:** Match-to-match performance trend analysis
 - Files: `navigation_query.sql`, `navigation_results.png`
 - **Insight:** Highlights volatility and tactical effects not visible in season totals.
+<img width="730" height="415" alt="window_function_q1" src="https://github.com/user-attachments/assets/f56517ae-f8ca-4e78-a70a-4a0bc71f7b9f" />
 
 ---
 
@@ -100,6 +109,7 @@ Erling Haaland, Cole Palmer, Alexander Isak, Ollie Watkins, Mohamed Salah.
 - **Use Case:** Player valuation & contract analysis
 - Files: `distribution_query.sql`, `distribution_results.png`
 - **Insight:** Quartiles and cumulative distribution identify tiers and market inefficiencies.
+<img width="762" height="421" alt="window_function_q4" src="https://github.com/user-attachments/assets/239b614c-eecb-41c5-916b-33221c36803e" />
 
 ---
 
@@ -146,3 +156,4 @@ This work complies with AUCA’s academic integrity policies."_
 ---
 
 Fatime Dadi Wardougou 25858
+
