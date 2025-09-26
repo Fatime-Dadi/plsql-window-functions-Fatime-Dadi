@@ -146,7 +146,9 @@ Develop opponent-specific performance analytics to better understand performance
 - [TutorialsPoint: SQL Window Functions](https://www.tutorialspoint.com/sql/sql-window-functions.htm)
 - [W3Schools: SQL Window Functions](https://www.w3schools.com/sql/sql_window_functions.asp)
 - [Stack Overflow: Practical Examples](https://stackoverflow.com/questions/tagged/window-functions)
-
+-GeeksforGeeks: SQL Window Functions
+-SQL Shack: Understanding SQL Window Functions
+-Microsoft Docs: OVER Clause (Transact-SQL)
 ---
 
 ## 📝 Academic Integrity Statement
@@ -158,5 +160,6 @@ This work complies with AUCA’s academic integrity policies."_
 ---
 
 Fatime Dadi Wardougou 25858
+
 
 
