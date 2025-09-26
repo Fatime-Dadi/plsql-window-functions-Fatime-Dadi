@@ -115,23 +115,25 @@ Erling Haaland, Cole Palmer, Alexander Isak, Ollie Watkins, Mohamed Salah.
 
 ## 📊 Results Analysis
 
-### Descriptive Analysis
+### Descriptive Analysis: What Happened?
+The analysis revealed clear performance tiers among Premier League players. Cole Palmer (Chelsea) emerged as the standout performer with an average rating of 8.26, placing him in the top performance quartile. Significant performance volatility was observed, with some players showing dramatic match-to-match fluctuations in goal output (-75% to -100% changes). The data also showed that high market value doesn't always correlate with consistent performance, revealing potential market inefficiencies.
 
-- Clear **performance tiers** emerged.
-- High market value ≠ consistent performance.
 
-### Diagnostic Analysis
+### Diagnostic Analysis: Why Did It Happen?
+The performance variations can be attributed to several factors: different tactical systems employed by various teams, the quality of opposition faced in consecutive matches, and the pressure of different competition contexts. Players like Erling Haaland showed that world-class reputation is often built on explosive match-winning performances that may be offset by quieter games. Team context also significantly influences performance consistency, with focal point attackers often showing more stable ratings.
 
-- Performance influenced by **tactics, opposition, and competition context**.
-- **Team role** impacts player consistency.
+### Prescriptive Analysis: What Should We Do Next?
+Develop "Consistency Metrics" for player valuation that complement traditional stats like goals and assists
 
-### Prescriptive Analysis
+Create data-driven content series including "The Consistency Kings" and "On the Rise" player features
 
-- Develop **Consistency Metrics** for valuation
-- Create **data-driven content series**
-- Implement **performance alert systems**
-- Apply **quartile analysis** in contracts
-- Build **opponent-specific analytics**
+Implement performance alert systems that flag significant drops in moving average ratings for early intervention
+
+Use quartile analysis in contract negotiations to ensure player compensation aligns with performance tiers
+
+Develop opponent-specific performance analytics to better understand performance fluctuations contextually
+
+
 
 ---
 
@@ -156,4 +158,5 @@ This work complies with AUCA’s academic integrity policies."_
 ---
 
 Fatime Dadi Wardougou 25858
+
 
